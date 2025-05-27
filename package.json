@@ -1,0 +1,9 @@
+
+{
+  "name": "fortnite-shop-parser",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.38.1"
+  }
+}
