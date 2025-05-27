@@ -6,7 +6,7 @@ import asyncio
 from generate_image import generate_collage
 import subprocess
 
-TOKEN = "7982630412:AAEru_KT-jJoifVHAKXiSPc_J9rYw6Ie7Zk"
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 logging.basicConfig(level=logging.INFO)
 
